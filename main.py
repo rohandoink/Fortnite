@@ -1,3 +1,4 @@
-print("yee")
-
-print("tunak tunak tun. tunak tunak tun. tunak tunak tun drla drla drla")
+counter = 0
+while counter <= 10:
+    print("Heheheha")
+    counter = counter + 1
